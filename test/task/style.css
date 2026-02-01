@@ -1,0 +1,46 @@
+body{
+    background: whitesmoke;
+}
+.container{
+    width: 300px;
+    margin:50px auto;
+
+    padding: 30px 20px 30px 20px;
+    background: white;
+    box-shadow: 0px 9px 8px rgba(0,0,0, 0.1);
+}
+
+.details{
+display: flex;
+flex-direction: column;
+gap: 4px;
+}
+.details >input{
+    padding: 10px 20px;
+    background: whitesmoke;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.login-account{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}

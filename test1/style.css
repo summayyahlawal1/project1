@@ -1,0 +1,28 @@
+body{
+    background: whitesmoke;
+}
+.container{
+margin: 50px auto;
+width: 270px;
+height: 230px;
+background: white;
+padding: 10px 20px 10px 20px ;
+box-shadow: 0px 9px 8px rgb(0,0,0,0.1);
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.details >input{
+    width: 200px;
+    height: 10px;
+    padding: 10px 30px;
+} 
+.btn{
+    background: blue;
+color: rgb(0, 255, 0);
+width: 270px;
+cursor: pointer;
+border: none;
+}

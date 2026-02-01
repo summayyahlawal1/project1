@@ -1,0 +1,56 @@
+.container{
+    margin: 2px;
+}
+.header {
+    width: 240px;
+    height: 30px;
+    color: white;
+    background: linear-gradient(45deg,rgb(168, 26, 26),rgb(29, 29, 134));
+    text-align: center;
+    border-radius: 3px;
+}
+.sidebar {
+    width: 80px;
+    height: 120px;
+    color: white;
+     background: linear-gradient(45deg,rgb(168, 26, 26),rgb(29, 29, 134));
+    text-align: center;
+}
+
+
+.content1 {
+    width: 160px;
+    height: 50px;
+    color: white;
+     background: linear-gradient(45deg,rgb(168, 26, 26),rgb(29, 29, 134));
+    text-align: center;
+}
+
+.content2 {
+    width: 90px;
+    height: 70px;
+    color: white;
+     background: linear-gradient(45deg,rgb(168, 26, 26),rgb(29, 29, 134));
+    text-align: center;
+    
+}
+
+
+.content3 {
+    width: 70px;
+    height: 70px;
+    color: white;
+    background: linear-gradient(45deg,rgb(168, 26, 26),rgb(29, 29, 134));
+    text-align: center;
+}
+.two-three{
+   display: flex;
+   gap: 2px;
+}
+.press{
+    display:flex;
+   margin: 2px;
+}
+.be{
+    margin: 2px;
+}

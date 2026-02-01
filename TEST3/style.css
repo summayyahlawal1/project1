@@ -1,0 +1,12 @@
+.container{
+    margin:50px auto ;
+    background:purple;
+    width: 600px;
+height: 190px;
+padding: 10px 20px 10px 20px;
+display: flex;
+}
+.content{
+    padding-left: 20px;
+    color: white;
+}

@@ -1,0 +1,27 @@
+body{
+    background: whitesmoke;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px  auto;
+}
+.btn{
+   background: green; 
+   width: 200px;
+   height: 74px;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   color: white;
+   cursor: pointer;
+   margin-top: 200px;
+   transition: 0.7s ease;
+}
+.btn:hover{
+background: rgba(4, 95, 4, 0.589);
+ width: 200px;
+   height: 74px;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   color: white;
+}

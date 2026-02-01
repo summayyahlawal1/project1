@@ -1,0 +1,21 @@
+button{
+    width: 140px;
+    border: 30px;
+    color: white;
+    font-size: 20px;width: 150px; ;
+    height: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color:green;
+}
+
+.blue{
+    background-color:blue;
+}

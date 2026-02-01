@@ -1,0 +1,43 @@
+body{
+    display: flex;
+}
+.box1{
+    font-size: 20px;
+    width: 400px;
+    height: 60px;
+    background:green;
+    color: white;
+    border: none;
+    text-align: center;
+}
+.box2{
+font-size: 20px;
+    width: 150px;
+    height: 60px;
+    background: red;
+    color: white;
+    border: none;
+    text-align: center;
+}
+.box3{
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+    background: green;
+    color: white;
+    border: none;
+    text-align: center;
+}
+.box4{
+font-size: 20px;
+    width: 303px;
+    height: 60px;
+    background: red;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.content2{
+    display: flex;
+}
